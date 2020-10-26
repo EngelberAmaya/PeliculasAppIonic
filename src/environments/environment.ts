@@ -5,7 +5,8 @@
 export const environment = {
   production: false,
   url: 'https://api.themoviedb.org/3',
-  apiKey: 'ae8dc5ccc0c05156afe4bb47fa0d1c94',
+  // la apiKey debe ser generada, para hacerlo debe registrarse en TheMovieDB,
+  apiKey: 'TUAPIKEY',
   imgPath: 'https://image.tmdb.org/t/p'
 
 };
